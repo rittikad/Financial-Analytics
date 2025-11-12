@@ -72,7 +72,6 @@ The analysis examines how constraints—such as **no short-selling** and **minim
 | 📊 **Mean–Standard Deviation Diagram** | Shows risk-return trade-off among portfolios | [View Plot](results/mean_std_plot.png) |
 | 📈 **Portfolio Returns Comparison** | In-sample vs Out-of-sample performance | [View Plot](results/returns_comparison.png) |
 | 🧩 **Portfolio Weights Over Time** | Dynamic allocation visualization | [View Plot](results/weights_plot.png) |
-\
 
 ---
 
