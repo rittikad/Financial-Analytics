@@ -77,7 +77,7 @@ The analysis examines how constraints—such as **no short-selling** and **minim
 
 ## 🚀 Quick Access
 
-📘 **[View Full Report (PDF)](https://github.com/rittikad/Financial-Analytics/blob/main/Report/IB99L0_5594410.pdf)**  
+- 📘 **[View Full Report (PDF)](https://github.com/rittikad/Financial-Analytics/blob/main/Report/IB99L0_5594410.pdf)**  
 - 💻 **[View Jupyter Notebook](https://github.com/rittikad/Financial-Analytics/blob/main/Code/IB99L0_5594410.ipynb)**  
 - 📊 **[Explore Dataset (CSV)](https://github.com/rittikad/Financial-Analytics/blob/main/Data/Developed_25_Portfolios_ME_BE-ME.csv)**
 
