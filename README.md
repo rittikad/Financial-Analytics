@@ -7,7 +7,7 @@ The analysis examines how constraints—such as **no short-selling** and **minim
 ---
 
 ## 📚 Dataset
-- **Source:** [Ken French’s Data Library — 25 Developed Markets Portfolios Formed on Size and Book-to-Market](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html#Developed)
+- **Source:** [Ken French’s Data Library — 25 Developed Markets Portfolios Formed on Size and Book-to-Market](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/tw_5_ports_developed.html)
 - **Period:** July 1990 – March 2025  
 - **Frequency:** Monthly  
 - **Type:** Value-weighted average returns  
